@@ -12,7 +12,6 @@ const App = () => {
 			<main className="py-3">
 				<Header />
 				<Container>
-					<h1>Welcome to ProShop!</h1>
 					<Outlet />
 				</Container>
 			</main>
